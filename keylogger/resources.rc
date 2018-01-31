@@ -1,0 +1,45 @@
+#define VOS_NT_WINDOWS32    0x00040004L
+#define VFT_APP                      0x00000001L
+
+//this will set your .exe icon
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "watch.ico"
+
+//include version information in .exe, modify these values to match your needs
+1 VERSIONINFO
+//6.1.7601.23572 - Win7
+//6,3,9600,1745 - Win8
+FILEVERSION 6,3,9600,1745
+PRODUCTVERSION 6,3,9600,1745
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "FileDescription", "Windows Host Process (rundll32.exe)"
+			 VALUE "FileType", "Application"
+			 VALUE "FileVersion", "6.3.9600.1745"
+			 VALUE "ProductName", "Microsoft® Windows® Operating System"
+			 VALUE "CompanyName", "Microsoft Corporation"
+			 VALUE "ProductVersion", "6.3.9600.1745"
+			 VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+			 VALUE "OriginalFilename", "RUNDLL32.EXE"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252 //language codes
+	 }
+}
+
+/*
+             // RUNDLL32.EXE
+             VALUE "FileDescription", "Windows Host Process (rundll32.exe)"
+             VALUE "FileType", "Application"
+             VALUE "FileVersion", "6.3.9600.1745"
+             VALUE "ProductName", "Microsoft® Windows® Operating System"
+             VALUE "CompanyName", "Microsoft Corporation"
+             VALUE "ProductVersion", "6.3.9600.1745"
+             VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+             VALUE "OriginalFilename", "RUNDLL32.EXE"
+*/

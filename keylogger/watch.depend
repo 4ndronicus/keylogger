@@ -1,0 +1,686 @@
+# depslib dependency file v1.0
+1421129037 source:c:\users\smorris\documents\codeblocks\watch\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1421874996 source:c:\users\scott.morris\dropbox\development\codeblocks\watch\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	"fileio.h"
+	"time_info.h"
+	"window_functions.h"
+	"mouse_hook.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"sys_info.h"
+
+1421815024 c:\users\scott.morris\dropbox\development\codeblocks\watch\fileio.h
+	<fstream>
+
+1421814568 c:\users\scott.morris\dropbox\development\codeblocks\watch\mouse_hook.h
+
+1421715933 c:\users\scott.morris\dropbox\development\codeblocks\watch\keycode_map.h
+
+1421471432 c:\users\scott.morris\dropbox\development\codeblocks\watch\keyboard_hook.h
+
+1421723364 c:\users\scott.morris\dropbox\development\codeblocks\watch\keycode_constants.h
+
+1421918016 source:c:\users\smorris\dropbox\development\codeblocks\watch\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	"fileio.h"
+	"time_info.h"
+	"proc_info.h"
+	"window_functions.h"
+	"mouse_hook.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"sys_info.h"
+
+1421815024 c:\users\smorris\dropbox\development\codeblocks\watch\fileio.h
+	<fstream>
+
+1421814568 c:\users\smorris\dropbox\development\codeblocks\watch\mouse_hook.h
+
+1421723364 c:\users\smorris\dropbox\development\codeblocks\watch\keycode_constants.h
+
+1421715933 c:\users\smorris\dropbox\development\codeblocks\watch\keycode_map.h
+
+1421471432 c:\users\smorris\dropbox\development\codeblocks\watch\keyboard_hook.h
+
+1421918445 c:\users\smorris\dropbox\development\codeblocks\watch\window_functions.h
+
+1421815024 c:\users\scott.morris\dropbox\development\codeblocks\watch\window_functions.h
+
+1421724060 c:\users\smorris\dropbox\development\codeblocks\watch\system.h
+
+1421875316 c:\users\smorris\dropbox\development\codeblocks\watch\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1421797294 c:\users\smorris\dropbox\development\codeblocks\watch\windows_version.h
+
+1421815087 c:\users\smorris\dropbox\development\codeblocks\watch\time_info.h
+	<time.h>
+
+1421798322 c:\users\smorris\dropbox\development\codeblocks\watch\userinfo.h
+	<windows.h>
+
+1421815087 c:\users\scott.morris\dropbox\development\codeblocks\watch\time_info.h
+	<time.h>
+
+1421875316 c:\users\scott.morris\dropbox\development\codeblocks\watch\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1421918156 c:\users\smorris\dropbox\development\codeblocks\watch\proc_info.h
+	<tlhelp32.h>
+	<stdio.h>
+	<winuser.h>
+
+1421961899 source:e:\development\codeblocks\watch\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	"fileio.h"
+	"time_info.h"
+	"proc_info.h"
+	"window_functions.h"
+	"mouse_hook.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"sys_info.h"
+
+1421961899 e:\development\codeblocks\watch\fileio.h
+	<fstream>
+
+1421961900 e:\development\codeblocks\watch\time_info.h
+	<time.h>
+
+1421922225 e:\development\codeblocks\watch\proc_info.h
+	<tlhelp32.h>
+
+1421961899 e:\development\codeblocks\watch\window_functions.h
+
+1421961899 e:\development\codeblocks\watch\mouse_hook.h
+
+1421726964 e:\development\codeblocks\watch\keycode_constants.h
+
+1421961900 e:\development\codeblocks\watch\keycode_map.h
+
+1421961899 e:\development\codeblocks\watch\keyboard_hook.h
+
+1421961900 e:\development\codeblocks\watch\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1490752516 source:g:\codeblocks\watch\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	"fileio.h"
+	"time_info.h"
+	"proc_info.h"
+	"window_functions.h"
+	"mouse_hook.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"sys_info.h"
+
+1490751826 g:\codeblocks\watch\fileio.h
+	<fstream>
+
+1421958300 g:\codeblocks\watch\time_info.h
+	<time.h>
+
+1421918625 g:\codeblocks\watch\proc_info.h
+	<tlhelp32.h>
+
+1421958299 g:\codeblocks\watch\window_functions.h
+
+1478833494 g:\codeblocks\watch\mouse_hook.h
+
+1421723364 g:\codeblocks\watch\keycode_constants.h
+
+1421958300 g:\codeblocks\watch\keycode_map.h
+
+1421958299 g:\codeblocks\watch\keyboard_hook.h
+
+1421958300 g:\codeblocks\watch\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1490752516 source:c:\users\smorris\documents\watch\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	"fileio.h"
+	"time_info.h"
+	"proc_info.h"
+	"window_functions.h"
+	"mouse_hook.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"sys_info.h"
+
+1490751826 c:\users\smorris\documents\watch\fileio.h
+	<fstream>
+
+1421958300 c:\users\smorris\documents\watch\time_info.h
+	<time.h>
+
+1421918625 c:\users\smorris\documents\watch\proc_info.h
+	<tlhelp32.h>
+
+1421958299 c:\users\smorris\documents\watch\window_functions.h
+
+1478833494 c:\users\smorris\documents\watch\mouse_hook.h
+
+1421723364 c:\users\smorris\documents\watch\keycode_constants.h
+
+1421958300 c:\users\smorris\documents\watch\keycode_map.h
+
+1421958299 c:\users\smorris\documents\watch\keyboard_hook.h
+
+1421958300 c:\users\smorris\documents\watch\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1513738995 source:c:\users\smorris\documents\security_projects\keylogger\format_log_class.cpp
+
+1514956080 source:c:\users\smorris\documents\security_projects\keylogger\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	"fileio.h"
+	"time_info.h"
+	"proc_info.h"
+	"window_functions.h"
+	"mouse_hook.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"sys_info.h"
+
+1513657729 c:\users\smorris\documents\security_projects\keylogger\fileio.h
+	<fstream>
+
+1421958300 c:\users\smorris\documents\security_projects\keylogger\time_info.h
+	<time.h>
+
+1421918625 c:\users\smorris\documents\security_projects\keylogger\proc_info.h
+	<tlhelp32.h>
+
+1515474511 c:\users\smorris\documents\security_projects\keylogger\window_functions.h
+
+1478833494 c:\users\smorris\documents\security_projects\keylogger\mouse_hook.h
+
+1421723364 c:\users\smorris\documents\security_projects\keylogger\keycode_constants.h
+
+1513740841 c:\users\smorris\documents\security_projects\keylogger\keycode_map.h
+
+1421958299 c:\users\smorris\documents\security_projects\keylogger\keyboard_hook.h
+
+1421958300 c:\users\smorris\documents\security_projects\keylogger\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1513738995 source:f:\001-active_projects\keylogger\format_log_class.cpp
+
+1516479208 source:f:\001-active_projects\keylogger\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	<stdio.h>
+	"../libraries/time_info.h"
+	"../libraries/fileio.h"
+	"../libraries/proc_info.h"
+	"../libraries/window_functions.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"mouse_hook.h"
+	"../libraries/sys_info.h"
+	"../libraries/autorun.h"
+	"../libraries/FTPObj.h"
+
+1515559981 f:\001-active_projects\keylogger\fileio.h
+	<fstream>
+
+1421958300 f:\001-active_projects\keylogger\time_info.h
+	<time.h>
+
+1515995491 f:\001-active_projects\keylogger\proc_info.h
+	<tlhelp32.h>
+
+1515995491 f:\001-active_projects\keylogger\window_functions.h
+
+1515999032 f:\001-active_projects\keylogger\mouse_hook.h
+	<windef.h>
+
+1421723364 f:\001-active_projects\keylogger\keycode_constants.h
+
+1515997583 f:\001-active_projects\keylogger\keycode_map.h
+	<string>
+	<windows.h>
+
+1515998660 f:\001-active_projects\keylogger\keyboard_hook.h
+	<windows.h>
+
+1421958300 f:\001-active_projects\keylogger\sys_info.h
+	<windows.h>
+	<tchar.h>
+
+1515646652 source:f:\001-active_projects\keylogger\autorun.cpp
+	<string.h>
+	<windows.h>
+	<winreg.h>
+	"autorun.h"
+
+1515652391 f:\001-active_projects\keylogger\autorun.h
+
+1515740258 source:f:\001-active_projects\libraries\timer.cpp
+
+1515898428 f:\001-active_projects\keylogger\ftp.h
+	<windows.h>
+	<iostream>
+	<wininet.h>
+
+1515890363 source:f:\001-active_projects\keylogger\resources.rc
+
+1516473066 source:f:\001-active_projects\libraries\ftpobj.cpp
+	"fileio.h"
+	"FTPObj.h"
+	<string.h>
+	<iostream>
+	<wininet.h>
+	<windows.h>
+	<time.h>
+	<sstream>
+
+1515976791 f:\001-active_projects\libraries\ftpobj.h
+	<string>
+
+1516472269 source:f:\001-active_projects\libraries\fileio.cpp
+	"fileio.h"
+	"time_info.h"
+	<fstream>
+	<string.h>
+
+1516052433 f:\001-active_projects\libraries\fileio.h
+	<string>
+	<stdio.h>
+
+1515994731 f:\001-active_projects\libraries\time_info.h
+	<string>
+
+1515994890 source:f:\001-active_projects\libraries\time_info.cpp
+	"time_info.h"
+	<time.h>
+	"fileio.h"
+	<string>
+
+1515995780 source:f:\001-active_projects\libraries\autorun.cpp
+	<windows.h>
+	"autorun.h"
+
+1515995705 f:\001-active_projects\libraries\autorun.h
+
+1515997206 source:f:\001-active_projects\libraries\proc_info.cpp
+	"proc_info.h"
+	<tlhelp32.h>
+	"fileio.h"
+
+1515996063 f:\001-active_projects\libraries\proc_info.h
+	<windows.h>
+
+1515997272 source:f:\001-active_projects\libraries\sys_info.cpp
+	<windows.h>
+	<tchar.h>
+	<lmcons.h>
+	"fileio.h"
+
+1515998541 source:f:\001-active_projects\libraries\window_functions.cpp
+	"window_functions.h"
+	"proc_info.h"
+	"fileio.h"
+	"time_info.h"
+
+1515998543 f:\001-active_projects\libraries\window_functions.h
+	<windows.h>
+
+1515998662 source:f:\001-active_projects\keylogger\keyboard_hook.cpp
+	"keyboard_hook.h"
+	"../libraries/window_functions.h"
+	"keycode_map.h"
+
+1515998662 source:f:\001-active_projects\keylogger\keycode_map.cpp
+	"keycode_map.h"
+	"../libraries/fileio.h"
+	"keyboard_hook.h"
+	"keycode_constants.h"
+
+1515998030 f:\001-active_projects\libraries\sys_info.h
+
+1515999026 source:f:\001-active_projects\keylogger\mouse_hook.cpp
+	"mouse_hook.h"
+	"../libraries/window_functions.h"
+	"../libraries/fileio.h"
+
+1515995780 source:i:\001-active_projects\libraries\autorun.cpp
+	<windows.h>
+	"autorun.h"
+
+1515995705 i:\001-active_projects\libraries\autorun.h
+
+1516040622 source:i:\001-active_projects\libraries\fileio.cpp
+	"fileio.h"
+	"time_info.h"
+	<fstream>
+	<string.h>
+
+1516041005 i:\001-active_projects\libraries\fileio.h
+	<string>
+	<stdio.h>
+
+1515994731 i:\001-active_projects\libraries\time_info.h
+	<string>
+
+1515997206 source:i:\001-active_projects\libraries\proc_info.cpp
+	"proc_info.h"
+	<tlhelp32.h>
+	"fileio.h"
+
+1515996063 i:\001-active_projects\libraries\proc_info.h
+	<windows.h>
+
+1515997272 source:i:\001-active_projects\libraries\sys_info.cpp
+	<windows.h>
+	<tchar.h>
+	<lmcons.h>
+	"fileio.h"
+
+1515994890 source:i:\001-active_projects\libraries\time_info.cpp
+	"time_info.h"
+	<time.h>
+	"fileio.h"
+	<string>
+
+1515998541 source:i:\001-active_projects\libraries\window_functions.cpp
+	"window_functions.h"
+	"proc_info.h"
+	"fileio.h"
+	"time_info.h"
+
+1515998543 i:\001-active_projects\libraries\window_functions.h
+	<windows.h>
+
+1515998662 source:i:\001-active_projects\keylogger\keyboard_hook.cpp
+	"keyboard_hook.h"
+	"../libraries/window_functions.h"
+	"keycode_map.h"
+
+1515998660 i:\001-active_projects\keylogger\keyboard_hook.h
+	<windows.h>
+
+1515997583 i:\001-active_projects\keylogger\keycode_map.h
+	<string>
+	<windows.h>
+
+1515998662 source:i:\001-active_projects\keylogger\keycode_map.cpp
+	"keycode_map.h"
+	"../libraries/fileio.h"
+	"keyboard_hook.h"
+	"keycode_constants.h"
+
+1421723364 i:\001-active_projects\keylogger\keycode_constants.h
+
+1516043905 source:i:\001-active_projects\keylogger\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	<stdio.h>
+	"../libraries/time_info.h"
+	"../libraries/fileio.h"
+	"../libraries/proc_info.h"
+	"../libraries/window_functions.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"mouse_hook.h"
+	"../libraries/sys_info.h"
+	"../libraries/autorun.h"
+	"../libraries/FTPObj.h"
+
+1515999032 i:\001-active_projects\keylogger\mouse_hook.h
+	<windef.h>
+
+1515998030 i:\001-active_projects\libraries\sys_info.h
+
+1515976791 i:\001-active_projects\libraries\ftpobj.h
+	<string>
+
+1515999026 source:i:\001-active_projects\keylogger\mouse_hook.cpp
+	"mouse_hook.h"
+	"../libraries/window_functions.h"
+	"../libraries/fileio.h"
+
+1515890363 source:i:\001-active_projects\keylogger\resources.rc
+
+1516043174 source:i:\001-active_projects\libraries\ftpobj.cpp
+	"fileio.h"
+	"FTPObj.h"
+	<string.h>
+	<iostream>
+	<wininet.h>
+	<windows.h>
+	<time.h>
+	<sstream>
+
+1516518977 source:z:\001-active_projects\libraries\autorun.cpp
+	<windows.h>
+	"autorun.h"
+
+1515995705 z:\001-active_projects\libraries\autorun.h
+
+1516494767 source:z:\001-active_projects\libraries\fileio.cpp
+	"fileio.h"
+	"time_info.h"
+	<fstream>
+	<string.h>
+
+1516498722 z:\001-active_projects\libraries\fileio.h
+	<string>
+	<stdio.h>
+
+1515994731 z:\001-active_projects\libraries\time_info.h
+	<string>
+
+1516516435 source:z:\001-active_projects\libraries\ftpobj.cpp
+	"fileio.h"
+	"FTPObj.h"
+	<string.h>
+	<iostream>
+	<wininet.h>
+	<windows.h>
+	<time.h>
+	<sstream>
+
+1515976791 z:\001-active_projects\libraries\ftpobj.h
+	<string>
+
+1515997206 source:z:\001-active_projects\libraries\proc_info.cpp
+	"proc_info.h"
+	<tlhelp32.h>
+	"fileio.h"
+
+1515996063 z:\001-active_projects\libraries\proc_info.h
+	<windows.h>
+
+1515997272 source:z:\001-active_projects\libraries\sys_info.cpp
+	<windows.h>
+	<tchar.h>
+	<lmcons.h>
+	"fileio.h"
+
+1515994890 source:z:\001-active_projects\libraries\time_info.cpp
+	"time_info.h"
+	<time.h>
+	"fileio.h"
+	<string>
+
+1515998541 source:z:\001-active_projects\libraries\window_functions.cpp
+	"window_functions.h"
+	"proc_info.h"
+	"fileio.h"
+	"time_info.h"
+
+1515998543 z:\001-active_projects\libraries\window_functions.h
+	<windows.h>
+
+1515998662 source:z:\001-active_projects\keylogger\keyboard_hook.cpp
+	"keyboard_hook.h"
+	"../libraries/window_functions.h"
+	"keycode_map.h"
+
+1515998660 z:\001-active_projects\keylogger\keyboard_hook.h
+	<windows.h>
+
+1515997583 z:\001-active_projects\keylogger\keycode_map.h
+	<string>
+	<windows.h>
+
+1515998662 source:z:\001-active_projects\keylogger\keycode_map.cpp
+	"keycode_map.h"
+	"../libraries/fileio.h"
+	"keyboard_hook.h"
+	"keycode_constants.h"
+
+1421723364 z:\001-active_projects\keylogger\keycode_constants.h
+
+1516520200 source:z:\001-active_projects\keylogger\main.cpp
+	<windows.h>
+	<Lmcons.h>
+	<stdio.h>
+	"../libraries/time_info.h"
+	"../libraries/fileio.h"
+	"../libraries/proc_info.h"
+	"../libraries/window_functions.h"
+	"keycode_constants.h"
+	"keycode_map.h"
+	"keyboard_hook.h"
+	"mouse_hook.h"
+	"../libraries/sys_info.h"
+	"../libraries/FTPObj.h"
+
+1515999032 z:\001-active_projects\keylogger\mouse_hook.h
+	<windef.h>
+
+1515998030 z:\001-active_projects\libraries\sys_info.h
+
+1515999026 source:z:\001-active_projects\keylogger\mouse_hook.cpp
+	"mouse_hook.h"
+	"../libraries/window_functions.h"
+	"../libraries/fileio.h"
+
+1516514085 source:z:\001-active_projects\keylogger\resources.rc
+
+1516519706 source:z:\001-active_projects\libraries\regobj.cpp
+	"RegObj.h"
+	<windows.h>
+
+1516519508 z:\001-active_projects\libraries\regobj.h
+	<windows.h>
+
+1516521073 source:e:\001-active_projects\libraries\autorun.cpp
+	<windows.h>
+	"autorun.h"
+
+1515995705 e:\001-active_projects\libraries\autorun.h
+
+1516494767 source:e:\001-active_projects\libraries\fileio.cpp
+	"fileio.h"
+	"time_info.h"
+	<fstream>
+	<string.h>
+
+1516498722 e:\001-active_projects\libraries\fileio.h
+	<string>
+	<stdio.h>
+
+1515994731 e:\001-active_projects\libraries\time_info.h
+	<string>
+
+1516516435 source:e:\001-active_projects\libraries\ftpobj.cpp
+	"fileio.h"
+	"FTPObj.h"
+	<string.h>
+	<iostream>
+	<wininet.h>
+	<windows.h>
+	<time.h>
+	<sstream>
+
+1515976791 e:\001-active_projects\libraries\ftpobj.h
+	<string>
+
+1515997206 source:e:\001-active_projects\libraries\proc_info.cpp
+	"proc_info.h"
+	<tlhelp32.h>
+	"fileio.h"
+
+1515996063 e:\001-active_projects\libraries\proc_info.h
+	<windows.h>
+
+1515997272 source:e:\001-active_projects\libraries\sys_info.cpp
+	<windows.h>
+	<tchar.h>
+	<lmcons.h>
+	"fileio.h"
+
+1515994890 source:e:\001-active_projects\libraries\time_info.cpp
+	"time_info.h"
+	<time.h>
+	"fileio.h"
+	<string>
+
+1515998541 source:e:\001-active_projects\libraries\window_functions.cpp
+	"window_functions.h"
+	"proc_info.h"
+	"fileio.h"
+	"time_info.h"
+
+1515998543 e:\001-active_projects\libraries\window_functions.h
+	<windows.h>
+
+1515998662 source:e:\001-active_projects\keylogger\keyboard_hook.cpp
+	"keyboard_hook.h"
+	"../libraries/window_functions.h"
+	"keycode_map.h"
+
+1515998660 e:\001-active_projects\keylogger\keyboard_hook.h
+	<windows.h>
+
+1515997583 e:\001-active_projects\keylogger\keycode_map.h
+	<string>
+	<windows.h>
+
+1515998662 source:e:\001-active_projects\keylogger\keycode_map.cpp
+	"keycode_map.h"
+	"../libraries/fileio.h"
+	"keyboard_hook.h"
+	"keycode_constants.h"
+
+1421723364 e:\001-active_projects\keylogger\keycode_constants.h
+
+1515999026 source:e:\001-active_projects\keylogger\mouse_hook.cpp
+	"mouse_hook.h"
+	"../libraries/window_functions.h"
+	"../libraries/fileio.h"
+
+1515999032 e:\001-active_projects\keylogger\mouse_hook.h
+	<windef.h>
+
+1516514085 source:e:\001-active_projects\keylogger\resources.rc
+
